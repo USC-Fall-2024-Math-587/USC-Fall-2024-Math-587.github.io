@@ -175,13 +175,13 @@
   },"29": {
     "doc": "Syllabus",
     "title": "Learning Outcomes",
-    "content": "After successful completion of course, you will: . | Apply and attack polyalphabetic ciphers | Explain the conceptual framework for different methods of encryption | Obtain fluency in the underlying mathematics for common cryptosystems like Elgamal and RSA | Become acquainted with modern mathematics underpinning major approachs to post-quantum cryptography | . ",
+    "content": "After successful completion of course, you will: . | Apply and attack polyalphabetic ciphers | Explain the conceptual framework for different methods of encryption | Obtain fluency in the underlying mathematics for common cryptosystems like Elgamal and RSA | Be introduced to more advanced methods of cryptography like elliptic curve cryptography | . ",
     "url": "https://587.f24.matthewrobertballard.com/syllabus/#learning-outcomes",
     "relUrl": "/syllabus/#learning-outcomes"
   },"30": {
     "doc": "Syllabus",
     "title": "Course Materials",
-    "content": "The main resources for materials are the course website, the Microsoft Team for the course, and the Github organization. The main text for this course is . | J. Hoffstein, J. Pipher, J. Silverman. An introduction to mathematical cryptography. A free electronic copy is available through USC libraries. | . Some other texts that you might find useful/interesting: . | W. Stallings. Cryptography and network security. A previous choice for text. | S. Singh. The code book. A popular history of cryptography and cryptanalysis through the ages. | B. Schneier. Applied cryptography. | . All course materials comply with copyright/fair use policies. ",
+    "content": "The main resources for materials are the course website, the Microsoft Team for the course, and the Github organization. The main text for this course is . | J. Hoffstein, J. Pipher, J. Silverman. An introduction to mathematical cryptography. A free electronic copy is available through USC libraries. | . Some other texts that you might find useful/interesting: . | W. Stallings. Cryptography and network security. A previous choice for text. | S. Singh. The code book. A popular history of cryptography and cryptanalysis through the ages. | B. Schneier. Applied cryptography. | . We will be using the Lean programming language and theorem prover as an integral part of this course. You will be introduced to Lean as the course progresses. No prior experience with Lean (or programming) is expected. Some useful resources for becoming familiar with Lean: . | D. Thrane Christiansen. Functional programming in Lean. A good introduction to using Lean to write executable code. | J. Avigad, L. de Moura, S. Kong and S. Ullrich, with contributions from the Lean Community Theorem Proving in Lean. The standard reference for learning how to use Lean as a theorem prover. | The Lean Manual. | . All course materials comply with copyright/fair use policies. ",
     "url": "https://587.f24.matthewrobertballard.com/syllabus/#course-materials",
     "relUrl": "/syllabus/#course-materials"
   },"31": {
