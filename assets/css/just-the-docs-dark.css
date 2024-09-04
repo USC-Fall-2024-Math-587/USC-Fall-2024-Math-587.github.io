@@ -568,7 +568,7 @@ hr {
 .site-logo {
   width: 100%;
   height: 100%;
-  background-image: url("https://587.f24.matthewrobertballard.com/assets/images/cipher.png");
+  background-image: url("http://localhost:4000/assets/images/cipher.png");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: contain;
