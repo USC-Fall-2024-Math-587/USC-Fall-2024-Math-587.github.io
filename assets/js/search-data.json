@@ -72,40 +72,40 @@
     "relUrl": "/calendar/"
   },"12": {
     "doc": "Schedule",
-    "title": "Diffie-Hellman key exchange and ElGamal public key cryptosystem",
-    "content": "Sep 16 Symmetric and asymmetric ciphers   Notes Pre-reading Section 1.7 Sep 18 Diffie-Hellman key exchange   Notes Pre-reading Sections 2.1 2.3 Sep 20 Elgamal public key cryptosystem   Notes Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep algorithm   Notes Pre-reading Section 2.7 Sep 25 Chinese remainder theorem   Notes Pre-reading Section 2.8 Sep 27 Hurricane Helene Oct 1 Hurricane recovery day Oct 3 More on Chinese remainder theorem   Notes Oct 5 Pohlig-Hellman algorithm   Notes Pre-reading Section 2.9 Oct 7 Polynomial rings and the Euclidean algorithm   Notes Pre-reading Section 2.10 Oct 9 Irreducible polynomials and new finite fields   Notes Pre-reading Section 2.10 ",
-    "url": "https://587.f24.matthewrobertballard.com/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem",
-    "relUrl": "/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem"
-  },"13": {
-    "doc": "Schedule",
     "title": "RSA and questions in computational number theory",
-    "content": "Oct 11 Roots modulo a product of two primes Pre-reading Section 3.1 Oct 14 RSA public key cryptosystem Pre-reading Section 3.2 Oct 16 Finding large primes Pre-reading Section 3.4 Oct 21 Lots of primes (probably) Pre-reading Sections 3.4.1, 3.4.2 Oct 23 Pollard’s $p-1$ factorization Pre-reading Section 3.5 Oct 25 Factorizations using differences of squares Pre-reading Section 3.6 Oct 28 Smooth numbers and the quadratic sieve Pre-reading Sections 3.7.1, 3.7.2 Oct 30 The number field sieve Pre-reading Section 3.7.3 Nov 4 The index calculus method Pre-reading Section 3.8 Nov 6 Quadratic residues Pre-reading Section 3.9 ",
+    "content": "Oct 11 Roots modulo a product of two primes   Notes Pre-reading Section 3.1 Oct 14 RSA public key cryptosystem   Notes Pre-reading Section 3.2 Oct 16 Finding large primes Pre-reading Section 3.4 Oct 21 Lots of primes (probably) Pre-reading Sections 3.4.1, 3.4.2 Oct 23 Pollard’s $p-1$ factorization Pre-reading Section 3.5 Oct 25 Factorizations using differences of squares Pre-reading Section 3.6 Oct 28 Smooth numbers and the quadratic sieve Pre-reading Sections 3.7.1, 3.7.2 Oct 30 The number field sieve Pre-reading Section 3.7.3 Nov 4 The index calculus method Pre-reading Section 3.8 Nov 6 Quadratic residues Pre-reading Section 3.9 ",
     "url": "https://587.f24.matthewrobertballard.com/calendar/#rsa-and-questions-in-computational-number-theory",
     "relUrl": "/calendar/#rsa-and-questions-in-computational-number-theory"
-  },"14": {
+  },"13": {
     "doc": "Schedule",
     "title": "Past topics",
     "content": ". ",
     "url": "https://587.f24.matthewrobertballard.com/calendar/#past-topics",
     "relUrl": "/calendar/#past-topics"
-  },"15": {
+  },"14": {
     "doc": "Schedule",
     "title": "Mathematical preliminaries",
     "content": "Aug 30 Division algorithm   Notes Pre-reading Section 1.2 Sep 2 Labor Day Sep 3 HW 1 due Sep 4 Euclidean algorithm   Notes Pre-reading Section 1.2 Sep 6 Modular arithmetic   Notes Pre-reading Section 1.3 Sep 9 Prime factorizations and finite fields   Notes Pre-reading Section 1.4 Sep 11 Powers and primitive roots in finite fields   Notes Pre-reading Section 1.5 HW 2 due Sep 13 The discrete logarithm problem   Notes Pre-reading Section 2.2 ",
     "url": "https://587.f24.matthewrobertballard.com/calendar/#mathematical-preliminaries",
     "relUrl": "/calendar/#mathematical-preliminaries"
-  },"16": {
+  },"15": {
     "doc": "Schedule",
     "title": "Welcome and Orientation",
     "content": "Aug 21 Introducing the course and ourselves ",
     "url": "https://587.f24.matthewrobertballard.com/calendar/#welcome-and-orientation",
     "relUrl": "/calendar/#welcome-and-orientation"
-  },"17": {
+  },"16": {
     "doc": "Schedule",
     "title": "Historical cryptography and cryptanalysis",
     "content": "Aug 23 Substitution and transposition ciphers   Notes Pre-reading Section 1.1 HW 0 due Aug 26 Frequency analysis   Notes Pre-reading Section 1.1.1 Aug 28 Evolution of cryptography Pre-reading Section 1.6 ",
     "url": "https://587.f24.matthewrobertballard.com/calendar/#historical-cryptography-and-cryptanalysis",
     "relUrl": "/calendar/#historical-cryptography-and-cryptanalysis"
+  },"17": {
+    "doc": "Schedule",
+    "title": "Diffie-Hellman key exchange and ElGamal public key cryptosystem",
+    "content": "Sep 16 Symmetric and asymmetric ciphers   Notes Pre-reading Section 1.7 Sep 18 Diffie-Hellman key exchange   Notes Pre-reading Sections 2.1 2.3 Sep 20 Elgamal public key cryptosystem   Notes Pre-reading Section 2.4 Sep 23 Shanks Babystep-Giantstep algorithm   Notes Pre-reading Section 2.7 Sep 25 Chinese remainder theorem   Notes Pre-reading Section 2.8 Sep 27 Hurricane Helene Oct 1 Hurricane recovery day Oct 3 More on Chinese remainder theorem   Notes Pre-reading Section 2.8 Oct 5 Pohlig-Hellman algorithm   Notes Pre-reading Section 2.9 Oct 7 Polynomial rings and the Euclidean algorithm   Notes Pre-reading Section 2.10 Oct 9 Irreducible polynomials and new finite fields   Notes Pre-reading Section 2.10 ",
+    "url": "https://587.f24.matthewrobertballard.com/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem",
+    "relUrl": "/calendar/#diffie-hellman-key-exchange-and-elgamal-public-key-cryptosystem"
   },"18": {
     "doc": "Homework",
     "title": "Homework",
